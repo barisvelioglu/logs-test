@@ -1,0 +1,77 @@
+Error: Channel closed by server: 406 (PRECONDITION-FAILED) with message "PRECONDITION_FAILED - delivery acknowledgement on channel 1 timed out. Timeout value used: 1800000 ms. This timeout value can be configured, see consumers doc guide to learn more"
+    at Channel.C.accept (/home/maestro/rabbit-node-ts/node_modules/amqplib/lib/channel.js:421:17)
+    at Connection.mainAccept [as accept] (/home/maestro/rabbit-node-ts/node_modules/amqplib/lib/connection.js:63:33)
+    at Socket.go (/home/maestro/rabbit-node-ts/node_modules/amqplib/lib/connection.js:486:48)
+    at Socket.emit (node:events:527:28)
+    at emitReadable_ (node:internal/streams/readable:578:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  code: 406,
+  classId: 0,
+  methodId: 0
+}
+Error: Channel closed by server: 406 (PRECONDITION-FAILED) with message "PRECONDITION_FAILED - delivery acknowledgement on channel 1 timed out. Timeout value used: 1800000 ms. This timeout value can be configured, see consumers doc guide to learn more"
+    at Channel.C.accept (/home/maestro/rabbit-node-ts/node_modules/amqplib/lib/channel.js:421:17)
+    at Connection.mainAccept [as accept] (/home/maestro/rabbit-node-ts/node_modules/amqplib/lib/connection.js:63:33)
+    at Socket.go (/home/maestro/rabbit-node-ts/node_modules/amqplib/lib/connection.js:486:48)
+    at Socket.emit (node:events:527:28)
+    at emitReadable_ (node:internal/streams/readable:578:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  code: 406,
+  classId: 0,
+  methodId: 0
+}
+Error: Channel closed by server: 406 (PRECONDITION-FAILED) with message "PRECONDITION_FAILED - delivery acknowledgement on channel 1 timed out. Timeout value used: 1800000 ms. This timeout value can be configured, see consumers doc guide to learn more"
+    at Channel.C.accept (/home/maestro/rabbit-node-ts/node_modules/amqplib/lib/channel.js:421:17)
+    at Connection.mainAccept [as accept] (/home/maestro/rabbit-node-ts/node_modules/amqplib/lib/connection.js:63:33)
+    at Socket.go (/home/maestro/rabbit-node-ts/node_modules/amqplib/lib/connection.js:486:48)
+    at Socket.emit (node:events:527:28)
+    at emitReadable_ (node:internal/streams/readable:578:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  code: 406,
+  classId: 0,
+  methodId: 0
+}
+Error: Channel closed by server: 406 (PRECONDITION-FAILED) with message "PRECONDITION_FAILED - delivery acknowledgement on channel 1 timed out. Timeout value used: 1800000 ms. This timeout value can be configured, see consumers doc guide to learn more"
+    at Channel.C.accept (/home/maestro/rabbit-node-ts/node_modules/amqplib/lib/channel.js:421:17)
+    at Connection.mainAccept [as accept] (/home/maestro/rabbit-node-ts/node_modules/amqplib/lib/connection.js:63:33)
+    at Socket.go (/home/maestro/rabbit-node-ts/node_modules/amqplib/lib/connection.js:486:48)
+    at Socket.emit (node:events:527:28)
+    at emitReadable_ (node:internal/streams/readable:578:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  code: 406,
+  classId: 0,
+  methodId: 0
+}
+Error: Channel closed by server: 406 (PRECONDITION-FAILED) with message "PRECONDITION_FAILED - delivery acknowledgement on channel 1 timed out. Timeout value used: 1800000 ms. This timeout value can be configured, see consumers doc guide to learn more"
+    at Channel.C.accept (/home/maestro/rabbit-node-ts/node_modules/amqplib/lib/channel.js:421:17)
+    at Connection.mainAccept [as accept] (/home/maestro/rabbit-node-ts/node_modules/amqplib/lib/connection.js:63:33)
+    at Socket.go (/home/maestro/rabbit-node-ts/node_modules/amqplib/lib/connection.js:486:48)
+    at Socket.emit (node:events:527:28)
+    at emitReadable_ (node:internal/streams/readable:578:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  code: 406,
+  classId: 0,
+  methodId: 0
+}
+Error: Channel closed by server: 406 (PRECONDITION-FAILED) with message "PRECONDITION_FAILED - delivery acknowledgement on channel 1 timed out. Timeout value used: 1800000 ms. This timeout value can be configured, see consumers doc guide to learn more"
+    at Channel.C.accept (/home/maestro/rabbit-node-ts/node_modules/amqplib/lib/channel.js:421:17)
+    at Connection.mainAccept [as accept] (/home/maestro/rabbit-node-ts/node_modules/amqplib/lib/connection.js:63:33)
+    at Socket.go (/home/maestro/rabbit-node-ts/node_modules/amqplib/lib/connection.js:486:48)
+    at Socket.emit (node:events:527:28)
+    at emitReadable_ (node:internal/streams/readable:578:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  code: 406,
+  classId: 0,
+  methodId: 0
+}
+Error: Channel closed by server: 406 (PRECONDITION-FAILED) with message "PRECONDITION_FAILED - delivery acknowledgement on channel 1 timed out. Timeout value used: 1800000 ms. This timeout value can be configured, see consumers doc guide to learn more"
+    at Channel.C.accept (/home/maestro/rabbit-node-ts/node_modules/amqplib/lib/channel.js:421:17)
+    at Connection.mainAccept [as accept] (/home/maestro/rabbit-node-ts/node_modules/amqplib/lib/connection.js:63:33)
+    at Socket.go (/home/maestro/rabbit-node-ts/node_modules/amqplib/lib/connection.js:486:48)
+    at Socket.emit (node:events:527:28)
+    at emitReadable_ (node:internal/streams/readable:578:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  code: 406,
+  classId: 0,
+  methodId: 0
+}
